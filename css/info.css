@@ -1,0 +1,8 @@
+p.facts, h3{
+  width: 10px;
+  height: 10px;
+  margin: 0 auto;
+  border: 0px navy solid;  /* outer stroke */
+  outline: 0px navy solid;  /* inner stroke */
+  outline-offset: 2px;  /* negative border width + outline width */
+}

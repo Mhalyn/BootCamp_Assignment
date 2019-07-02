@@ -1,0 +1,80 @@
+div.seat_box{
+	border: 1px solid;
+	border-color: #44929E;
+
+	}
+h1{
+	border: 1px solid black;
+	font-family: sans-serif;
+	font-weight: bold;
+	padding: 10px;
+	background-color: #44929E;
+	color: white;
+	border-color: #44929E;
+
+
+}
+h3{
+	border: 1px solid black;
+	font-family: sans-serif;
+	font-weight: bold;
+	padding: 20px;
+	background-color: #44929E;
+	color: white;
+	border-color: #44929E;
+	width: 100%;
+}
+h4{
+	
+	font-family: sans-serif;
+	font-weight: bold;
+	padding: 20px;
+	background-color: #66C6D5 ;
+	color: black;
+
+	width: 100%;
+}
+input[type="text"], [type="date"]{
+	border: 1px solid black;
+	font-family: sans-serif;
+
+	padding: 1px;
+	background-color: transparent;
+	color: black;
+	border-color: #707070;
+	width: 20%;
+
+}
+select{
+	border: 1px solid black;
+	font-family: sans-serif;
+
+	padding: 1px;
+	background-color: transparent;
+	color: black;
+	border-color: #707070;
+	width: 10%;
+
+}
+option, option[selected="selected"]{
+	font-weight: bold;
+}
+
+	}
+div.sticky{
+	float: left;
+	width: 12%;
+}
+div.sticky{
+	border: 1px solid black;
+	font-family: sans-serif;
+	border-radius: 20px;
+	padding: 1px;
+	background-color: transparent;
+	color: black;
+	border-color: #707070;
+	width: 20%;
+}
+img.iconp{
+		align-items: center;
+}
